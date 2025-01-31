@@ -1,4 +1,2 @@
 #!/bin/bash
-previous_dir=$(pwd)
-cd /var
-cd "$previous_dir"
+cd $(pwd -P) && cd -
