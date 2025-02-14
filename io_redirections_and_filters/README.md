@@ -16,4 +16,6 @@
 16.
 17.
 18.
-19.we use tr which means translate tr 'world to replace' 'the new word'
+19.we use tr which means translate tr 'world to replace' 'the new word
+20. we use tr -d "the character to be deleted"
+21. rev to reverse a word
